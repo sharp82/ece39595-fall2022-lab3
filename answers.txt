@@ -5,3 +5,4 @@ Product Owner: "Sets direction for the team, handles release management and stak
 C) Sprint Planning: "Determine what to complete in the coming sprint, Move stories in sprint scope from backlog to current sprint" source: ECE 364 Software Engineering Tools Laboratory
 Daily Scrum/Stand up meetings: discusses completed work and plan for work for the day
 Sprint Retrospective Meetings: discuss completed work and what incompleted work needs to be moved to the backlog
+D) An EPIC is a major part of a project and it has subtasks story, bug, and task. A story is a requirement, a task is something that needs to be done but is not necessarily code, and a bug is an issue that needs to be addressed for the epic to progress.
