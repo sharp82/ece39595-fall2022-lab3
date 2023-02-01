@@ -1,8 +1,3 @@
 ***Please note my work may not match the work expected, this is becuase I was having issues that the TA could not figure out. He said that it was not possible for me to do several components of the assignment. For example my JIRA kept crashing so I was unable to fully integrate it. The TA was named Nimal.***
 A) Pros: easier collaberation and feedback, files can be more easily changed. However it is more complicated which causes room for error if someone is not fully comfortable with the software.
-B) Scrum master: manages scrum related tasks, "JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master"
-Product Owner: "Sets direction for the team, handles release management and stakeholder management."
-C) Sprint Planning: "Determine what to complete in the coming sprint, Move stories in sprint scope from backlog to current sprint" source: ECE 364 Software Engineering Tools Laboratory
-Daily Scrum/Stand up meetings: discusses completed work and plan for work for the day
-Sprint Retrospective Meetings: discuss completed work and what incompleted work needs to be moved to the backlog
-D) An EPIC is a major part of a project and it has subtasks story, bug, and task. A story is a requirement, a task is something that needs to be done but is not necessarily code, and a bug is an issue that needs to be addressed for the epic to progress.
+
