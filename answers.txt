@@ -2,3 +2,6 @@
 A) Pros: easier collaberation and feedback, files can be more easily changed. However it is more complicated which causes room for error if someone is not fully comfortable with the software.
 B) Scrum master: manages scrum related tasks, "JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master"
 Product Owner: "Sets direction for the team, handles release management and stakeholder management."
+C) Sprint Planning: "Determine what to complete in the coming sprint, Move stories in sprint scope from backlog to current sprint" source: ECE 364 Software Engineering Tools Laboratory
+Daily Scrum/Stand up meetings: discusses completed work and plan for work for the day
+Sprint Retrospective Meetings: discuss completed work and what incompleted work needs to be moved to the backlog
